@@ -1,8 +1,5 @@
-module github.com/jrbrilnee1/go-impala
+module github.com/jrbrinlee1/go-impala
 
-go 1.18
+go 1.20
 
-require (
-	github.com/apache/thrift v0.18.1
-	github.com/jrbrinlee1/go-impala v2.1.0+incompatible
-)
+require github.com/apache/thrift v0.18.1
